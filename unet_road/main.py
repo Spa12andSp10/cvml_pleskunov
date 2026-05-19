@@ -1,4 +1,4 @@
-from train import (RoadsDataset, model, path)
+from unet_road import (RoadsDataset, model, path)
 import torch
 import matplotlib.pyplot as plt
 
